@@ -1,6 +1,6 @@
 # AWS-Automation-scripts
 
-EC2 :
+**EC2** :
 Create your own Key based SnapShots
 
 Delete SnapShots
