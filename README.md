@@ -25,3 +25,5 @@ s3_list_file_older_than_number_of_days.py - Allows you to list all files older t
 s3_search_file_in_bucket.py - Allows you to search file in S3 bucket.
 
 s3_search_subdirectory.py - Allows you to search subdirectory under nested folder structure.
+
+cloudwatch_retention_policy.py - Sets a CloudWatch Logs Retention Policy to x number of days for all log groups in the region that you exported in your cli.
