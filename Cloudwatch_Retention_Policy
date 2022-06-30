@@ -3,7 +3,7 @@
 # This script will set a CloudWatch Logs Retention Policy to x number of days for all log groups in the region that you exported in your cli.
 
 import argparse
-import boto3
+import boto3   
 
 cloudwatch = boto3.client("logs")
 
