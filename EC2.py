@@ -3,7 +3,7 @@
 from datetime import datetime, timedelta, timezone
 
 import boto3
-
+          
 
 def get_delete_data(older_days):
     delete_time = datetime.now(tz=timezone.utc) - timedelta(days=older_days)
