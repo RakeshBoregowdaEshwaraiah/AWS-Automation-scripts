@@ -6,7 +6,7 @@ import argparse
 import boto3   
 
 cloudwatch = boto3.client("logs")
-
+          
 
 def get_cloudwatch_log_groups():  
     kwargs = {"limit": 50}
