@@ -9,7 +9,7 @@ A ssh wrapper for connecting quickly to EC2 instances in an Auto Scaling group.
 Usage: ec2-asg-ssh {ssh-key-location} {ssh-user}
 eg: ec2-asg-ssh foobar ~/app/app.pem root
 Note: Make sure to export the AWS profile first, read more:
-https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html
+https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html          
 END
   exit
 fi
