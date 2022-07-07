@@ -8,7 +8,7 @@ import boto3
 import tarfile
 import os.path
 
-s3Client = boto3.client("s3")
+s3Client = boto3.client("s3")       
 s3object = boto3.resource("s3")
 
 
