@@ -1,4 +1,4 @@
-#  Author : Avinash Dalvi
+
 #
 # This script allows you to list all files older than N numbers of days.
 #
