@@ -1,4 +1,4 @@
-#  Author : Avinash Dalvi
+
 #
 # This script allows you to search subdirectory under nested folder structure.
 #
