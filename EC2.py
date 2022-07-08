@@ -24,7 +24,7 @@ def is_unassigned(tags):
     if 'user' not in [t['Key'] for t in tags]:
         return True
     return False
-
+ 
 
 class Ec2Instances(object):
 
